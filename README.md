@@ -16,6 +16,6 @@
 Data transfer - BLE    
 250 samples per second   
 
-Connect ESP-32C3   
-Uplaod data   
+Connect ESP-32C3 to data transfer       
+
 
