@@ -23,6 +23,9 @@ In the process
   <img src="https://github.com/pieeg-club/Brain_Stethoscope/blob/main/images/Alph.jpeg" width="50%" height="50%" alt="generals view">
 </p>
 
+### Demo
+Yputuve [video](https://www.youtube.com/watch?v=OMOJHC0NXXE&t=2s)  
+
 ### How it works   
 16 Ch    
 Data transfer - BLE    
