@@ -20,7 +20,7 @@ In the process
 
 ### Alpha test (closed), Electrode in Pz position  
 <p align="center">
-  <img src="https://github.com/pieeg-club/Brain_Stethoscope/blob/main/images/1780357136533.jfif" width="50%" height="50%" alt="generals view">
+  <img src="https://github.com/pieeg-club/Brain_Stethoscope/blob/main/images/Alph.jpeg" width="50%" height="50%" alt="generals view">
 </p>
 
 ### How it works   
